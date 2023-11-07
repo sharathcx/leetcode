@@ -30,5 +30,4 @@ class Solution:
             return common_str
 
 
-s = Solution()
-print(s.longestCommonPrefix(["flower","flow","flight"]))
+
